@@ -1,13 +1,14 @@
 # 👋 Olá! Eu sou João Paulo L. Borella
 
-Desenvolvedor Web Júnior focado em soluções modernas, responsivas e eficientes. Entusiasta de React, TypeScript, automação e sempre aprendendo para atuar como Fullstack.
+Desenvolvedor Web Júnior focado em interfaces modernas, responsivas e performáticas.  
+Entusiasta das IAs e automação de fluxo de trabalho, em evolução para atuar como Fullstack. Front-end finalizado e Back-end em andamento.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpborella&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpborella&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
-## 🚀 Tecnologias & Skills
+## 🚀 Stack & Ferramentas
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,14 +23,17 @@ Desenvolvedor Web Júnior focado em soluções modernas, responsivas e eficiente
 
 ## 🌟 Projetos em Destaque
 
-- [Portfólio Pessoal](https://portifolio-pi-lyart.vercel.app/)
-- [Landing Page - Ana](https://ana-landing-page-kappa.vercel.app/)
+- [Portfólio Pessoal](https://portifolio-pi-lyart.vercel.app/)  
+  SPA responsiva construída com React + TypeScript + Tailwind, focada em apresentar projetos, animações suaves e navegação fluida.
 
-## 📫 Contato
+- [Landing Page - Ana](https://vendedores.teknorte.com.br/ana-paula/)  
+  Landing page feita para empresa Tek Norte Sistemas, otimizada para conversão, com layout responsivo, componentes reaproveitáveis e atenção a tipografia e espaçamento.
+
+## 📫 Onde me encontrar
 
 <a href="mailto:jpborella1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jpborella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
 
-Pronto para crescer, colaborar e transformar ideias em código.
+Pronto para colaborar em projetos reais, aprender rápido e transformar ideias em código.
