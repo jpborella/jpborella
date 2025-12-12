@@ -4,8 +4,8 @@ Desenvolvedor Web Júnior focado em interfaces modernas, responsivas e performá
 Entusiasta das IAs e automação de fluxo de trabalho, em evolução para atuar como Fullstack. Front-end finalizado e Back-end em andamento.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpborella&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpborella&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={jpborella}&theme={solarized}&exclude={exclude}" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username={jpborella}&theme={solarized}"/>
 </p>
 
 ## 🚀 Stack & Ferramentas
